@@ -4,15 +4,11 @@ title: "About me"
 ---
 
 I’m a Ph.D. candidate in the Department of Civil and Environmental Engineering and Earth Sciences at the University of Notre Dame. My graduate research is in atmospheric and upper ocean dynamics - from planetary waves to air-sea interactions - regarding the South Asian Summer Monsoon. 
-
-<img src="/assets/mef.jpg"
-     alt="this is my hexacopter I built"
-     style="display:block;
-            float:none;
-            width:60%;
-            margin-left:auto;
-            margin-right:auto;
-            ">
+            
+<p align="right" width="100%">
+    This text is also aligned to the right.<br>
+    <img width="33%" src="/assets/mef.jpg">
+</p>
 
 During my graduate career, I had the opportunity to be part of the Monsoon Intraseasonal Oscillations in the Bay of Bengal (MISO-BOB) field expeditions both in 2018 onboard the Tommy Thompson and 2019 on the Sally Ride, overseeing a set of atmospheric profiles from daily radiosonde deployments and assisting on the collection of ocean data from multiple instruments like CTD and VMP.
 
