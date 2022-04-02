@@ -3,6 +3,39 @@ layout: page
 title: "About me"
 ---
 
+<style>
+
+/* By default, make all images center-aligned, and 60% of the width
+of the screen in size */
+img
+{
+    display:block;
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+
+/* Create a CSS class to style images to left-align, or "float left" */
+.leftAlign
+{
+    display:inline-block;
+    float:left;
+    /* provide a 15 pixel gap between the image and the text to its right */
+    margin-right:15px;
+}
+
+/* Create a CSS class to style images to right-align, or "float right" */
+.rightAlign
+{
+    display:inline-block;
+    float:right;
+    /* provide a 15 pixel gap between the image and the text to its left */
+    margin-left:15px;
+}
+
+</style>
+
 I’m a Ph.D. candidate in the Department of Civil and Environmental Engineering and Earth Sciences at the University of Notre Dame. My graduate research is in atmospheric and upper ocean dynamics - from planetary waves to air-sea interactions - regarding the South Asian Summer Monsoon. <img src="/assets/me.JPG" class="leftAlign">
 
 During my graduate career, I had the opportunity to be part of the Monsoon Intraseasonal Oscillations in the Bay of Bengal (MISO-BOB) field expeditions both in 2018 onboard the Tommy Thompson and 2019 on the Sally Ride, overseeing a set of atmospheric profiles from daily radiosonde deployments and assisting on the collection of ocean data from multiple instruments like CTD and VMP.
