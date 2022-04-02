@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "JP_resume.pdf", title: "CV"}
+  - {file: "/assets/JP_resume.pdf", title: "CV"}
   - {title: "Lab", url: "https://efmlab.nd.edu/"}
   - {file: "blog.md", title: "Publications"}
 
