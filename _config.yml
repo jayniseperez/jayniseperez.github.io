@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "assets/JP_resume.pdf", title: "CV"}
+  - {title: "CV", url: "https://github.com/jayniseperez/jayniseperez.github.io/raw/master/assets/JP_resume.pdf"}
   - {title: "Lab", url: "https://efmlab.nd.edu/"}
-  - {file: "blog.md", title: "Publications"}
+  - {title: "Publications", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jperez9@nd.edu"}
