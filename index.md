@@ -2,7 +2,7 @@
 layout: page
 title: "About me"
 ---
-**Align center:**
+
 <p align="center" width="100%">
     <img width="33%" src="/assets/me.JPG">
 </p>
