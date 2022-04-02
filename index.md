@@ -3,8 +3,7 @@ layout: page
 title: "About me"
 ---
 
-<img src="/assets/me.JPG"
-     style="display:block;float:none;margin-right:auto;width:60%">
+![me](/assets/me.JPG){: .align-right}
 
 I’m a Ph.D. candidate in the Department of Civil and Environmental Engineering and Earth Sciences at the University of Notre Dame. My graduate research is in atmospheric and upper ocean dynamics - from planetary waves to air-sea interactions - regarding the South Asian Summer Monsoon. 
 
