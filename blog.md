@@ -1,11 +1,12 @@
 ---
-layout: default
-title: "Projects"
+layout: Page
+title: "Monsoon Intraseasonal Oscillations in the Bay of Bengal (MISO-BOB)"
 ---
 
-  {% include archive.html title="Monsoon Intraseasonal Oscillations in the Bay of Bengal (MISO-BOB)" %}
+---
+layout: Page
+title: "Effects of Hurricaine Maria in Puerto Rico"
+---
   
-  
-  
-  {% include archive.html title="Effects of Hurricaine Maria in Puerto Rico" %}
+
 
