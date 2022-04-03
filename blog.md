@@ -1,7 +1,10 @@
 ---
-title: "Projects"
 layout: default
+title: "Projects"
 ---
 
-{% include archive.html title="Past and ongoing projects" %}
-
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Projects" %}
+{% endif %}
